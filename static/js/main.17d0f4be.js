@@ -11339,9 +11339,10 @@
                   paddingBottom: 20,
                   paddingLeft: 20,
                   paddingRight: 20,
-                  borderColor: "#050505",
-                  borderWidth: 0.1,
-                  borderRadius: 5,
+                  borderColor: "#000000",
+                  borderWidth: 0.2,
+                  borderRadius: 10,
+                  border: "1px solid #d0d0d0",
                 },
                 children: [
                   (0, c.jsx)("div", {
