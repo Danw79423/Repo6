@@ -11334,11 +11334,14 @@
               (0, c.jsxs)("div", {
                 className: "",
                 style: {
-                  backgroundColor: "#EEEED1",
+                  backgroundColor: "#ffffff",
                   paddingTop: 20,
                   paddingBottom: 20,
                   paddingLeft: 20,
                   paddingRight: 20,
+                  borderColor: "#050505",
+                  borderWidth: 0.1,
+                  borderRadius: 5,
                 },
                 children: [
                   (0, c.jsx)("div", {
