@@ -11334,7 +11334,7 @@
               (0, c.jsxs)("div", {
                 className: "",
                 style: {
-                  backgroundColor: "rgb(226, 227, 229)",
+                  backgroundColor: "#FFFBD1",
                   paddingTop: 20,
                   paddingBottom: 20,
                   paddingLeft: 20,
