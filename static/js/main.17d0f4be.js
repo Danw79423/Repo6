@@ -11423,10 +11423,10 @@
                   paddingBottom: 20,
                 },
                 children: (0, c.jsx)("img", {
-                  src: "/resource/AXN.png",
+                  src: "/resource/unlock.png",
                   alt: "",
                   width: 680,
-                  height: 200,
+                  height: 300,
                 }),
               }),
               (0, c.jsxs)("div", {
