@@ -11425,6 +11425,7 @@
                 style: {
                   paddingTop: 20,
                   paddingBottom: 20,
+                  borderRadius: 10,
                 },
                 children: (0, c.jsx)("img", {
                   src: "/resources/unlock.png",
