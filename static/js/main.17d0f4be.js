@@ -11423,7 +11423,7 @@
                   paddingBottom: 20,
                 },
                 children: (0, c.jsx)("img", {
-                  src: "/resource/unlock.png",
+                  src: "/resources/unlock.png",
                   width: 680,
                   height: 300,
                 }),
@@ -11434,7 +11434,6 @@
                   (0, c.jsx)("div", {
                     className: "",
                     style: {
-                      textAlign: "center",
                       fontWeight: "bold",
                       fontSize: 20,
                       color: "#3084F4",
